@@ -70,4 +70,3 @@ send_email(sender_email, recipient_email, subject, body)
 #     smtp_server="smtp.example.com",  # Replace with a real SMTP server
 #     smtp_port=587  # Common port for SMTP
 # )
-#                                                                                                                     
